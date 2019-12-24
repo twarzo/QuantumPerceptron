@@ -12,7 +12,7 @@ Implement a Perceptron using quantum gates in Q#.
 -	C#
 -	Q#
 
-### Instructions
+### Instructions to run the demo
 - There should support of running C# on system. [Visual Studio](https://visualstudio.microsoft.com/downloads/) can help you in this. 
 - To run Q#, Quantum Develop Kit is required. For Visual Studio, the SDK kit can be downloaded from [here](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit). There is extension available for the same in VS Code as well. 
 
