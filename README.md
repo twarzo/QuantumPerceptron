@@ -20,7 +20,7 @@ Implement a Perceptron using quantum gates in Q#.
 - Iteration value is just to improve the probability of the quantum state. 
 
 #### Inputs
-- Number of Bits: 4  
+- Number of Quantum Bits: 4  
 - Input Vector : 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1
 - Weight Vector: 1, 1, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
 - Iterations: 8196
