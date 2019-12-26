@@ -24,3 +24,5 @@ Implement a Perceptron using quantum gates in Q#.
 - Input Vector : 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1
 - Weight Vector: 1, 1, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
 - Iterations: 8196
+
+##### Detailed explanation can be found [here](https://medium.com/@bvr.6894/problem-statement-7aca8e884986)
